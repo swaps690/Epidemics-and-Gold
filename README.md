@@ -1,2 +1,2 @@
-# Epidemics-and-Gold
-Gold price movement during and post epidemics
+# Epidemics-and-Gold and Crude
+Gold, crude price and Market movement during and post epidemics
